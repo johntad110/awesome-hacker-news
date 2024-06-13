@@ -46,6 +46,7 @@
 - [@hn_custom_feed_bot](https://t.me/hn_custom_feed_bot) by [Mevaser](https://github.com/Mevaser)
 - [@yahnc](https://t.me/yahnc) by [Yuchen Ying](https://github.com/yegle)
 - [@YHackerNews](https://t.me/YHackerNews) 
+- [@HNbriefs](https://t.me/hnbriefs) by [Jhon Tad](https://github.com/johntad110)
 
 ## Twitter
 
